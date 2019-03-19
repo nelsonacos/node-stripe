@@ -1,2 +1,1 @@
-# node-stripe
-Node Stripe
+![](docs/screenshot.png)
